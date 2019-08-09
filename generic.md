@@ -1,16 +1,16 @@
 ---
-title: Ipsum Veroeros
-subtitle: Lorem ipsum dolor sit magna consectetur
-img_path: images/pic05.jpg
-menus:
+title: Soccer
+subtitle: "## Best sport ever!"
+img_path: "/images/weird-3-blur-stone.JPG"
+layout: page
+menu:
   main:
     title: Ipsum veroeros
     weight: 2
-layout: page
+
 ---
+From Wikipedia:
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+Association football, more commonly known as football or soccer,\[2\] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world’s most popular sport.\[3\]\[4\]\[5\]\[6\] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+The goalkeepers are the only players allowed to touch the ball with their hands or arms while it is in play and then only in their penalty area. Outfield players mostly use their feet to strike or pass the ball, but may use their head or torso to strike the ball instead. The team that scores the most goals by the end of the match wins. If the score is level at the end of the game, either a draw is declared or the game goes into extra time and/or a penalty shootout depending on the format of the competition. The Laws of the Game were originally codified in England by The Football Association in 1863. Association football is governed internationally by the International Federation of Association Football (FIFA; French: Fédération Internationale de Football Association) which organises a World Cup every four years.\[7\]
